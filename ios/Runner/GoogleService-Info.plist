@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>783038211695-n6rtnb7uemom9he2sagcrdbprl378dd0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.783038211695-n6rtnb7uemom9he2sagcrdbprl378dd0</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>783038211695-2gmns4gs46hb8mqi30okcpl9s9lttt1v.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAEUkpQB_6x4U_pnkwk0bKIiwecBP1XsfM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>783038211695</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.kurdivia</string>
+	<key>PROJECT_ID</key>
+	<string>med-quiz-1df58</string>
+	<key>STORAGE_BUCKET</key>
+	<string>med-quiz-1df58.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:783038211695:ios:4072a90032eea77ba40f9a</string>
+	<key>DATABASE_URL</key>
+	<string>https://med-quiz-1df58-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
